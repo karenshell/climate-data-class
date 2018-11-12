@@ -1,5 +1,5 @@
 # climate-data-class
-ATS 301 Climate Data Anlysis class
+ATS 301 Climate Data Analysis class
 
 The labs are distributed as PDF's of the notebooks (without the output, and with some "folded" cells), to enourage students to type in the code themselves.  (Some students do cut-and-paste from the PDF, but this often causes issues with non-printing characters and the like.)
 
